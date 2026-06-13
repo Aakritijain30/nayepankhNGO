@@ -8,7 +8,6 @@ A fully responsive, multi-section static website built for **NayePankh Foundatio
 
 ## 🌐 Live Preview
 
-> Deploy karke link yahan paste karo
 > `[https://your-Aakritijain30.github.io/nayepankhNGO](https://aakritijain30.github.io/nayepankhNGO/)
 
 ---
