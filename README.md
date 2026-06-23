@@ -2,7 +2,8 @@
 
 > *"Giving Wings to Those Who Dare to Rise"*
 
-A fully responsive, multi-section static website built for **NayePankh Foundation** — one of India's largest youth-led NGOs based in Kanpur, Uttar Pradesh.
+A fully responsive, multi-section static website built for **NayePankh Foundation**. 
+It is a web platform built to amplify social impact, streamline volunteer onboarding, and facilitate secure donations. This website serves as the digital home for our NGO. It bridges the gap between our on-ground social initiatives and global supporters. The platform focuses on operational transparency, community engagement, and resource mobilization.
 
 ---
 
